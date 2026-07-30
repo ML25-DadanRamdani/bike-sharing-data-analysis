@@ -20,7 +20,7 @@ This project aims to uncover actionable insights and answer the following busine
 To make it easy to run and explore this analysis without setting up a local environment, you can use Google Colab:
 
 1. **Open Google Colab:** Go to Google Colab.
-2. **Import the Notebook:** Select the GitHub tab, paste the link to this repository (https://github.com/[Your-Username]/[Your-Repo-Name]), and open the `Notebook.ipynb` file.
+2. **Import the Notebook:** Select the GitHub tab, paste the link to this repository (https://github.com/ML25-DadanRamdani/bike-sharing-data-analysis/tree/main), and open the `Notebook.ipynb` file.
 3. **Upload Datasets:** On the left sidebar of Google Colab, click the Files icon (folder shape). Upload the `day.csv` and `hour.csv` files into the Colab environment.
 4. **Run the Analysis:** Click on the cells and press `Shift + Enter` to run them sequentially. You can explore the data wrangling process, interact with the visualizations, and read the business insights directly in your browser.
 
