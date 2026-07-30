@@ -13,6 +13,13 @@ This project aims to uncover actionable insights and answer the following busine
 - **Main Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Environment:** Jupyter Notebook
 
+## 🚀 How to Run the Project Locally
+
+1. **Clone this repository:**
+   Open your terminal or command prompt and run the following command:
+   ```bash
+   git clone [https://github.com/](https://github.com/)[ML25-DadanRamdani]/[bike-sharing-data-analysis].git
+
 ## 📂 Repository Structure
 ```text
 ├── data/
