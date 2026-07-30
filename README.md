@@ -13,12 +13,16 @@ This project aims to uncover actionable insights and answer the following busine
 - **Main Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Environment:** Jupyter Notebook
 
-## 🚀 How to Run the Project Locally
+## 🚀 How to Run the Project
 
-1. **Clone this repository:**
-   Open your terminal or command prompt and run the following command:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[ML25-DadanRamdani]/[bike-sharing-data-analysis].git
+### Setup & Usage (via Google Colab)
+
+To make it easy to run and explore this analysis without setting up a local environment, you can use Google Colab:
+
+1. **Open Google Colab:** Go to Google Colab.
+2. **Import the Notebook:** Select the GitHub tab, paste the link to this repository (https://github.com/[Your-Username]/[Your-Repo-Name]), and open the `Notebook.ipynb` file.
+3. **Upload Datasets:** On the left sidebar of Google Colab, click the Files icon (folder shape). Upload the `day.csv` and `hour.csv` files into the Colab environment.
+4. **Run the Analysis:** Click on the cells and press `Shift + Enter` to run them sequentially. You can explore the data wrangling process, interact with the visualizations, and read the business insights directly in your browser.
 
 ## 📂 Repository Structure
 ```text
